@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Singh</h1>
-<h3 align="center">A passionate Python/Django developer from India</h3>
+<h3 align="center">A passionate Python/Django developer </h3>
 
 <h1 align="center">
  <img src="https://user-images.githubusercontent.com/33418077/132952401-1b7e9273-8159-4d11-a66a-30724d983342.png" />
