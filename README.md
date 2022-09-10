@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Python, Django and Machine Learning**
 
-- 📝 I regularly write articles on [https://sochojarahatke.blogspot.com/](https://sochojarahatke.blogspot.com/)
+- 📝 I regularly write articles on [https://www.arohanas.com/](https://www.arohanas.com/)
 
 - 📫 How to reach me **ankitpratapsingh333@gmail.com**
 
