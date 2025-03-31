@@ -59,24 +59,20 @@ Check out my repositories below for some cool stuff! 👇
 
 ---
 
-## 🔥 Featured Projects  
-- **[Project 1 Name]**: A wild ride into [brief description] using [tech stack]. [Link to repo]  
-- **[Project 2 Name]**: Unleashing [brief description] with [tech stack]. [Link to repo]  
-- **More to come**: Stay tuned for epic updates!  
-
----
-
 
 <h3 align="center"> Badge</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=impratap" alt="impratap" /></a> </p>
 
 
+## ✨ Prime Directive  
+*"In a universe of infinite data, I wield algorithms like a lightsaber!"*  
 
-## 💡 Motto  
-*"Data is the new oil, and I’m drilling with algorithms!"*  
+Thanks for docking at my profile! Star a repo, clone a project, or hail me—I’m seeking crewmates to explore this vast data nebula. Together, we’ll boldly go where no code has gone before! 🪐  
 
-Thanks for stopping by! Star a repo, fork a project, or say hi—I’d love to collaborate with fellow explorers in this infinite data universe. 🌠  
+---
+
+
 
 
 
