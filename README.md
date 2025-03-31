@@ -1,5 +1,5 @@
 
-# 🚀 Hey there, I’m [Ankit Singh]!  
+# 🚀 Hey there, I’m Ankit Singh!  
 ### Data Science Learner | Machine Learning Engineer | AI Enthusiast  
 
 Welcome to my GitHub galaxy! I’m on a mission to decode the universe, one dataset at a time. I am obsessed with turning raw data into mind-blowing insights, crafting intelligent models, and exploring the wild frontiers of artificial intelligence. Let’s build the future together!  
