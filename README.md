@@ -38,7 +38,7 @@ Welcome to my GitHub galaxy! I’m on a mission to decode the universe, one data
 ## 🌟 What I’m Up To  
 - Building ML models that predict, classify, and amaze.  
 - Experimenting with AI to solve real-world puzzles.  
-- Learning the art of data storytelling with visualizations that pop.  
+- Learning the art of data storytelling with visualisations that pop.  
 - Sharing projects that blend code, math, and a dash of madness!  
 
 Check out my repositories below for some cool stuff! 👇  
