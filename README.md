@@ -5,7 +5,7 @@
 Welcome to my GitHub galaxy! I’m on a mission to decode the universe, one dataset at a time. I am obsessed with turning raw data into mind-blowing insights, crafting intelligent models, and exploring the wild frontiers of artificial intelligence. Let’s build the future together!  
 
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/33418077/132952401-1b7e9273-8159-4d11-a66a-30724d983342.png" />
+ <img src="https://raw.githubusercontent.com/impratap/Roll_dice_in_python/refs/heads/main/Data%20Science.jpg" />
 </h1>
 
 
